@@ -1,0 +1,7 @@
+ru\clevertec\check\Check.class
+ru\clevertec\check\CartItem.class
+ru\clevertec\check\Printer.class
+ru\clevertec\check\Product.class
+ru\clevertec\check\CheckRunner.class
+ru\clevertec\check\DiscountCard.class
+ru\clevertec\check\Check$CheckRow.class
